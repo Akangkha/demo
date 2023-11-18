@@ -1,0 +1,13 @@
+.photo-grid
+{
+  display: flex;
+  flex-wrap: wrap;
+
+}
+
+
+.photo-item
+{
+margin:20px;
+width: 200px;
+}
